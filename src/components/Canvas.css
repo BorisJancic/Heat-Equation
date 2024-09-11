@@ -1,0 +1,14 @@
+.canvas_title {
+    font-size: 2vw;
+    text-align: center;
+    margin: 0;
+    width: 100%; /* Ensure the title takes full width of the container */
+}
+
+.canvas {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+
+    transition: border 1s;
+}
