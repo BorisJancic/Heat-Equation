@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Heat-Equation/static/css/main.07c9fe0e.css",
+    "main.js": "/Heat-Equation/static/js/main.65159768.js",
+    "index.html": "/Heat-Equation/index.html",
+    "main.07c9fe0e.css.map": "/Heat-Equation/static/css/main.07c9fe0e.css.map",
+    "main.65159768.js.map": "/Heat-Equation/static/js/main.65159768.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07c9fe0e.css",
+    "static/js/main.65159768.js"
+  ]
+}
