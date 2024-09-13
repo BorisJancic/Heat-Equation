@@ -60,10 +60,18 @@ div {
   margin: 0;
   /* width: 100%; Ensure the title takes full width of the container */
 }
-.name_paragraph {
-  text-align: right;
-  padding-right: 10px;
 
+.name_container {
+  display: flex;
+  align-items: center; /* Vertically centers the content */
+  justify-content: flex-end; /* Aligns content to the right */
+  padding-right: 10px;
+}
+.name_paragraph {
+  font-size: 10px;
+  margin-right: 5px; /* Space between text and link */
+}
+.github_link {
   font-size: 10px;
 }
 
