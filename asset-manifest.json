@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Heat-Equation/static/css/main.07c9fe0e.css",
-    "main.js": "/Heat-Equation/static/js/main.65159768.js",
+    "main.css": "/Heat-Equation/static/css/main.4dac3d7c.css",
+    "main.js": "/Heat-Equation/static/js/main.5503b350.js",
     "index.html": "/Heat-Equation/index.html",
-    "main.07c9fe0e.css.map": "/Heat-Equation/static/css/main.07c9fe0e.css.map",
-    "main.65159768.js.map": "/Heat-Equation/static/js/main.65159768.js.map"
+    "main.4dac3d7c.css.map": "/Heat-Equation/static/css/main.4dac3d7c.css.map",
+    "main.5503b350.js.map": "/Heat-Equation/static/js/main.5503b350.js.map"
   },
   "entrypoints": [
-    "static/css/main.07c9fe0e.css",
-    "static/js/main.65159768.js"
+    "static/css/main.4dac3d7c.css",
+    "static/js/main.5503b350.js"
   ]
 }
